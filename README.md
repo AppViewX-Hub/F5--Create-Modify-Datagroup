@@ -1,2 +1,2 @@
 # F5--Create-Modify-Datagroup
-Standard template to creare/modify a datagroup on F5
+ Used to create new or modify existing datagroups on a F5 load balancer
